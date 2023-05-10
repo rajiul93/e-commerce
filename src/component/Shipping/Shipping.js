@@ -13,7 +13,7 @@ let navigate = useNavigate();
         navigate("/payment")
         console.log(data)
     };
-    const shippingDetails = localStorage.getItem("shipping") ? JSON.parse(localStorage.getItem('shipping')) : {};
+    // const shippingDetails = localStorage.getItem("shipping") ? JSON.parse(localStorage.getItem('shipping')) : {};
 
     return (
         <section className='bg-brand-container'>
