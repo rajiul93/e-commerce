@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+ /*  */
+ button{
+  font-size: 12px;
+ }
+ .product-container{
+  padding: 1rem;
+ }
+ .cart-deck{
+  background-color: white;
+  border: 1px solid #f2f2f2;
+  padding-top: 15px;
+  border-radius: .5rem;
+  box-shadow: 0 5px 15px #f2f2f2;
+ }
+ .card-ing-top{
+  width: 200px;
+  margin: 1rem 0;
+  transition: all .3s ease;
+ }
+ .card-ing-top:hover{
+filter: brightness(.8);
+transform: scale(1.1);
+ }
+
+.form-control:focus{
+  border-color: black;
+  box-shadow: 0 0 0 black;
+ }

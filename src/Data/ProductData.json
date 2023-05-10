@@ -1,0 +1,86 @@
+[
+    {
+        "id"         : "1",
+        "name"       : "Airpod",
+        "description": "What are you looking for in an earphone? Perhaps a high-quality, durable pair of earphones that can withstand the wear and tear of everyday use? You might want to find a pair that's lightweight and easy to use, even when your hands are full. You might want to find a pair that's affordable and versatile. You might want to find a pair that's able to create a custom fit for your ears.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/9g1sfys/airpod.jpg"
+    },
+    {
+        "id"         : "2",
+        "name"       : "Camera",
+        "description": "The Canon EOS Rebel T6i DSLR Camera, with 18.0 Megapixel CMOS (APS-C) sensor and Dual Pixel CMOS AF, is an entry-level DSLR camera that is designed for both beginners and experienced photographers. The Rebel T6i DSLR Camera features a 1.040 Million-dot LCD screen, with the ability to display both stills and movies, and a standard ISO range of 100-12800. The camera has built-in Wi-Fi and NFC connectivity, which allows for wireless connection with compatible devices.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/5ktRsqR/camera.jpg"
+    },
+    {
+        "id"         : "3",
+        "name"       : "Bag",
+        "description": "The world's first sustainable leather messenger bag is made of genuine Italian leather.",
+        "price"      :"1600",
+        "image" : "https://i.ibb.co/19ZWL47/bag.jpg"
+    },
+    {
+        "id"         : "4",
+        "name"       : "Spray",
+        "description": "A light and refreshing spray that can be used as an all-day moisturizer and primer. A light and refreshing spray that can be used as an all-day moisturizer and primer. We know you're busy and on the go, so we've made it easy for you to take care of your skin without a lot of fuss. Our refreshing body spray is light and easily absorbed by the skin, so it won't leave your skin feeling greasy or sticky. This is the perfect way to refresh your skin and give it a boost of moisture that lasts all day long. Our refreshing body spray is light and easily absorbed by the skin, so it won't leave your skin feeling greasy or sticky. This is the perfect way to refresh your skin and give it a boost of moisture that lasts all day long.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/gjN4S19/body-spray.jpg"
+    },
+    {
+        "id"         : "5",
+        "name"       : "Iphone",
+        "description": "The new iPhone 6S Plus is bigger, faster, and stronger than the last iPhone. This phone has a great camera and is easy to use. The new iPhone 6S Plus also comes with a long battery life.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/k8MNN5y/iphone.jpg"
+    },
+    {
+        "id"         : "6",
+        "name"       : "Laptop",
+        "description": "The laptop is a popular, convenient device that is easy to carry around with you. They are also lightweight and easy to use.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/Q9187Qd/laptop.jpg"
+    },
+    {
+        "id"         : "7",
+        "name"       : "Mouse",
+        "description": "The small mouse is ideal for children, or for those with small hands. The mouse can be used in a variety of ways: to navigate the cursor, or to navigate the scroll wheel. The mouse is powered by a single AAA battery, which is included.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/hfr5knM/mouse.jpg"
+    },
+    {
+        "id"         : "8",
+        "name"       : "Mugs",
+        "description": "These personalized coffee mugs are the perfect gift for anyone who enjoys a hot drink.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/vwptZcf/mugs.jpg"
+    },
+    {
+        "id"         : "9",
+        "name"       : "Shoe",
+        "description": "The Nike Air Max 95 is a classic style that is lightweight and supportive. The Air Max 95 was released in 1995 and was created by Nike's innovative engineer, Tinker Hatfield. This shoe is designed for running, but is also very popular for casual wear.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/qRt6Fq8/shoe.jpg"
+    },
+    {
+        "id"         : "10",
+        "name"       : "Sunglass",
+        "description": "Sunlight can be blinding, but you can't always protect your eyes from the sun. A good pair of sunglasses will protect your eyes and look good while doing it.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/Yj5qMgC/sunglass.jpg"
+    },
+    {
+        "id"         : "11",
+        "name"       : "Tv",
+        "description": "I have a TV with a screen that is small and black.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/nbKZMy8/tv.jpg"
+    },
+    {
+        "id"         : "12",
+        "name"       : "Watch",
+        "description": "As time goes by, timepieces become more complex and intricate. With the aid of a timer and a stopwatch, a watch can be used to count down or measure the passage of time.",
+        "price"      :"1600",
+        "image"      : "https://i.ibb.co/XXDYdNf/watch.jpg"
+    }
+]

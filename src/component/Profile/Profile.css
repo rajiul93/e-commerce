@@ -1,0 +1,17 @@
+.shippingDetails_span p{
+    margin-bottom: 2px;
+}
+.shippingDetails_span p span {
+   color: rgb(184, 32, 32);
+   font-weight:bold;
+}
+.shippingDetails_span_container{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+}
+.shippingDetails_span_container img{
+    border-radius: 50%;
+}
